@@ -9,7 +9,7 @@
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "cbullock_sandbox"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
